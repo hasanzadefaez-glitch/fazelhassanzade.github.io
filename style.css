@@ -613,3 +613,25 @@
     align-items: center;
     text-decoration: none;
 }
+#contact{
+    background-color: rgba(128, 96, 3, 0.37);
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    font-family: 'vazirmatn',sans-serif;
+}
+#phoneBtn{
+    background-color:  rgba(128, 96, 3, 0.0);
+    color: black;
+    border: 0px solid;
+}
+#contact-text{
+    display: block;
+    text-align: center;
+}
+#contact-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.contact-item{
+    text-align: center;
+}
